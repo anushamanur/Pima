@@ -4,7 +4,7 @@
 The objective is to predict whether a patient has diabetes based on diagnostic measurements using Neural Networks.
 
 ### Dataset
-This implementation uses he wilt dataset from the UCI Machine Learning Repository. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
+This implementation uses he wilt dataset from the UCI Machine Learning Repository. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage. 33% of the dataset is considered for testing.
 
 ##### Attributes
 1. Number of times pregnant
