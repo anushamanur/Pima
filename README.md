@@ -30,5 +30,5 @@ Python and its various toolkits have been used in the classification of diseased
 Performance : 78.74 % ( for 500 epochs)
 
 ### Data files 
-pima-indians-diabetes.csv - contains the entire dataset.
+pima_indians_diabetes.csv - contains the entire dataset.
 
